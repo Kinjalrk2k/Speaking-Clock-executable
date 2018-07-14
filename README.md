@@ -1,4 +1,4 @@
-# Speaking-Clock-executable-
+# Speaking-Clock-executable
 This program speaks the time for you
 
 This program works with the voices avaliable at: [Steve-Clock](http://steve-audio.net/voices/)
